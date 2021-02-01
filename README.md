@@ -8,7 +8,7 @@ Allows line breaks on Instagram (Bio and Description)
 U+2028
 
 Copy and paste from:
-https://unicode-table.com/en/2028/
+<a href="https://unicode-table.com/en/2028/">https://unicode-table.com/en/2028/</a>
 
 
 #### Print Settings
