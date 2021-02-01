@@ -1,6 +1,7 @@
 # 3D-Printing
 
 ### Emojis for 3D Printing on social media (Instagram, Facebook, etc.)
+Uses Unicode characters and emojis to represent or resemble 3d printing terminology
 #### General
 ##### Line Seperator
 Allows line breaks on Instagram (Bio and Description)
@@ -12,25 +13,29 @@ https://unicode-table.com/en/2028/
 ##### Printer
 🖨
 🖶
-
-┎┰┒
-
-┖━┚
-
+𒌾
+回
 ##### Filament
 🧵
 ⦾
 ⦿
 ⨀
 🞉
-⸾
-
 ##### Nozzle
 ⇓
-##### Infill
+
+##### Infill Density
 ▧
+▨
 ◍
+🞖
+⊞
 ##### Layer Heights
 ☲
 ##### Support Structures
 🏗
+##### Print Time
+⏱
+⏲
+⏰
+🕓
