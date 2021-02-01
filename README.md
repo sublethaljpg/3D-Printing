@@ -3,15 +3,27 @@
 ### Emojis for 3D Printing on social media (Instagram, Facebook, etc.)
 #### General
 ##### Line Seperator
+Allows line breaks on Instagram (Bio and Description)
 U+2028
-<iframe src="https://unicode-table.com/en/2028/"></iframe>
 
+Copy and paste from:
+https://unicode-table.com/en/2028/
 #### Print Settings
+##### Printer
+🖨
+🖶
+
+┎┰┒
+
+┖━┚
+
 ##### Filament
+🧵
 ⦾
 ⦿
 ⨀
 🞉
+⸾
 
 ##### Nozzle
 ⇓
