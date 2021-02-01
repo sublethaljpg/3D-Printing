@@ -9,6 +9,8 @@ U+2028
 
 Copy and paste from:
 https://unicode-table.com/en/2028/
+
+
 #### Print Settings
 ##### Printer
 🖨
@@ -23,7 +25,7 @@ https://unicode-table.com/en/2028/
 ##### Nozzle
 ⇓
 
-##### Infill Density
+##### Infill
 ▧
 ▨
 ◍
