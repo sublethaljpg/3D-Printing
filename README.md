@@ -15,13 +15,15 @@ https://unicode-table.com/en/2028/
 ##### Printer
 🖨
 🖶
-
 ##### Filament
 🧵
 ⦾
 ⦿
 ⨀
 🞉
+##### Temperature / Heating
+♨
+🔥
 ##### Nozzle
 ⇓
 ⛉
