@@ -13,8 +13,7 @@ https://unicode-table.com/en/2028/
 ##### Printer
 🖨
 🖶
-𒌾
-回
+
 ##### Filament
 🧵
 ⦾
