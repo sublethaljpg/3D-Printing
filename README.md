@@ -24,7 +24,8 @@ https://unicode-table.com/en/2028/
 🞉
 ##### Nozzle
 ⇓
-
+⛉
+⛊
 ##### Infill
 ▧
 ▨
@@ -35,6 +36,9 @@ https://unicode-table.com/en/2028/
 ☲
 ##### Support Structures
 🏗
+🚧
+##### Bed Adhesion
+Still searching...
 ##### Print Time
 ⏱
 ⏲
